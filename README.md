@@ -1,3 +1,8 @@
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/Gamer167/count.svg" alt="Visitor's Count" />
+</div>
+
 Hi 👋 My name is Kristopher (Gamer 1)
 ===========================
 
